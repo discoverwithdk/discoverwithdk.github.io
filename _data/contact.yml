@@ -1,14 +1,17 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: instagram
+  icon: "fab fa-instagram"
+  noblank: true
+  url: "https://www.instagram.com/discoverwithdk/" # Fill with your Instagram profile link
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: true 
+  url: "mailto:discoverwithdk@gmail.com" # Fill with your email address
 
 - type: rss
   icon: "fas fa-rss"
@@ -35,6 +38,6 @@
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link
 #
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
+- type: threads
+  icon: 'fa-brands fa-threads'
+  url: 'https://www.threads.net/@discoverwithdk'                   # Fill with your Threads profile link

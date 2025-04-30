@@ -25,8 +25,8 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://discoverwithdk.github.io"
 
-github:
-  username: discoverwithdk # change to your GitHub username
+#github:
+#  username: discoverwithdk # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/209782164?s=400&u=289912efc62f8cad87d64527f26696d0f12bb996&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
