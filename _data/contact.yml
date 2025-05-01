@@ -5,12 +5,11 @@
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true 
+#  noblank: true 
   url: "mailto:discoverwithdk@gmail.com" # Fill with your email address
 
 - type: instagram
   icon: "fab fa-instagram"
-  noblank: true
   url: "https://www.instagram.com/discoverwithdk/" # Fill with your Instagram profile link
 
 - type: threads
@@ -19,7 +18,7 @@
   
 - type: rss
   icon: "fas fa-rss"
-  noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
